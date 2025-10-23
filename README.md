@@ -24,10 +24,6 @@ Communication is a basic human need, and for deaf and mute individuals, it can o
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/yourusername/varta.git
-
 
 Navigate to the project directory:
 
